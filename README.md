@@ -2,6 +2,13 @@
 
 Welcome to **miniCTF** – a fun mix of OSINT, reversing, web, crypto, misc, and binary puzzles.
 
+> This entire platform — from the design to the challenges — was built in just **one day**.
+> 
+> So yeah, some things might be a little rough around the edges or feel incomplete. But that’s part of the charm.
+> 
+> Every challenge is handcrafted, and while it might not be perfect, it's built with love for learning and curiosity.
+>
+
 Below is a list of the challenges included in this CTF with their descriptions and point values.
 
 ---
