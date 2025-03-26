@@ -85,6 +85,13 @@ Below is a list of the challenges included in this CTF with their descriptions a
 
 ---
 
+### 🔹 Hello, Fr13nd – 30 pts  
+> You found a note on Elliot’s old Raspberry Pi. Looks like garbage at first — but fsociety loves the classics.  
+> Can you figure out what Elliot left behind?  
+>  
+> **Hint**: The cipher is old, but still does the job.
+
+
 ## 🔗 Repository
 
 [→ GitHub Repo](https://github.com/Crimzos/miniCTF)
