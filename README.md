@@ -91,6 +91,8 @@ Below is a list of the challenges included in this CTF with their descriptions a
 >  
 > **Hint**: The cipher is old, but still does the job.
 
+---
+
 ### 🔹 Behind the Mask – 20 pts  
 > You found a photo of the infamous fsociety masked man.  
 > Nothing looks suspicious — no glitches, no distortion. Just that smug face.  
