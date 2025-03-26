@@ -1,6 +1,6 @@
 # miniCTF – Challenge List
 
-Welcome to **miniCTF** – a fun mix of OSINT, reversing, web, crypto, misc, and binary puzzles.
+Welcome to **miniCTF**
 
 > This entire platform — from the design to the challenges — was built in just **one day**.
 > 
