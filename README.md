@@ -60,7 +60,7 @@ Below is a list of the challenges included in this CTF with their descriptions a
 
 ---
 
-### 🔹 Old Habits Die Hard – 10 pts  
+### 🔹 Old Habits Die Hard – 15 pts  
 > It’s 2025. But some people are still using passwords like it’s 1999.  
 > We found this hash sitting on an old dev server.  
 > Can you figure out what bad habit they still haven’t broken?
@@ -85,7 +85,7 @@ Below is a list of the challenges included in this CTF with their descriptions a
 
 ---
 
-### 🔹 Hello, Fr13nd – 30 pts  
+### 🔹 Hello, Fr13nd – 15 pts  
 > You found a note on Elliot’s old Raspberry Pi. Looks like garbage at first — but fsociety loves the classics.  
 > Can you figure out what Elliot left behind?  
 >  
